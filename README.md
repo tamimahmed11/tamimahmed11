@@ -89,13 +89,11 @@
 
 ---
 
-### 📈 Activity Graph
 
-<div align="center">
-
-[![Tamim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tamimahmed11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+## ✨ Fun Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
